@@ -1,5 +1,7 @@
 *** How Does the Internet Work? ***
 
+Slideshow: https://docs.google.com/presentation/d/1mJujs4VL_m4RrooIXGmhDdNKbV2HA4n3k2fsMxSMt3c/edit
+
 - Internet: think of it as a long piece of wire, and the wire
 connects different computers to each other
 
@@ -19,7 +21,6 @@ Every single computer connected to the internet has an IP address, which is like
 3. After DNS Server finds IP address, it will be sent back to my browser
 
 4. Client then sends a direct request to that IP address to the ISP
-
 
 5. This direct requst will be delivered to the server with the IP address
 I have via the internet backbone, which is a network of submarine cables. The server has all the files
