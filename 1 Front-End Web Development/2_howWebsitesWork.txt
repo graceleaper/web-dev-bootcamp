@@ -1,0 +1,43 @@
+*** How Do Websites Work? ***
+
+- What does HTML, CSS, and JavaScript do exactly?
+
+- To access a webpage, we need a browser, like Chrome, Safari, Firefox, etc.
+    - These browsers are all software that let us look up the IP address of our website we request,
+    so we can receive data (or information) that will return us beautiful websites that we see
+    - The data (or information) we receive from the server are usually made up of 3 types of files:
+        - HTML, CSS, and JS
+        - Why are there different files? Why can't we just have one file that will show us our website?
+        - Each type of file has a designated/specific job
+
+- Purpose of each type of code file:
+    - HTML: the structure. If a website was a house, the HTML file would be the walls, toilets, etc. (any appliance or item of a house)
+        - Use HTML to build structure of our website
+        - Can use to add text, image, button, etc.
+    - CSS: responsible for styling the website. If you're building a house, this would be the decorations and supplies used to style your home
+        - Specify how we want our websites to be styled
+        - We have a button, and we want to make it red
+        - Make font on a webpage green with font type of Arial
+        - All of this is done with CSS code
+    - JS: adding functionality or behavior to our webpage
+        - Like adding electricity and plumbing system to a home
+        - JS code allows our websites to actually do things
+        - If we have button on a website, we can use JS to make it show a pop-up message on the screen
+        - our website won't just display images and text. Website will have behavior
+
+
+- Can mess around with existing websites!
+    - Right-click on text or image, and select "Inspect"
+    - Will explore developer tools in more detail in the future
+    - After clicking on "Inspect" for a specific element (or item), the entire code file for this page will appear
+    - The highlighted portion of the code corresponds to the highlighted part of the actual webpage (above or to the side, depending on display of dev tools)
+    - Double click on the highlighted code, and we can edit its content!
+    - Can prank friends (who aren't tech-savvy or technilogically advanced) with a screenshot
+    - Unfortunately, when you hit "refresh", all of your hard work is gone
+        - When editing on your browser, you're just changing the local copy that was delivered to you from the server we requested from
+        - Refreshing a webpage means we're making another request to the server, which will give us fresh copies of the HTML, CSS, and JS files
+            - Thus, updating to the original content from the server
+    - But don't worry! We'll be making our websites with content that we want in coming meetings
+
+
+    
