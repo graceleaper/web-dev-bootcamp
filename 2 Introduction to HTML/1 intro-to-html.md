@@ -25,6 +25,7 @@
         - Markups used to specify changes for authors or structures for publishers
         - Squiggly lines should be printed in bold
         - Circled words to be italicized
+        - (see photos of manuscript key for editors)
     - With HTML, we can specify the structure of our content (so our text and images)
 
 - Go to codepen.io
