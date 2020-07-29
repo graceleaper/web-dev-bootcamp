@@ -53,3 +53,8 @@
 - Can use crop-cicle tool to crop images in a circle, with transparent edges
     - Image with circular border common among social media sites (YouTube, Instagram)
 - *** Can use repl.it to create websites on the browser, AND save images from your device
+
+```
+<img src="grace-lee.png" alt="headshot" width="50%">
+```
+- Also, set width to resize images. If we have a large image that seems to be taking up our whole website, let's type something like 50%. This means that our image's width take up 50% of the window's width
