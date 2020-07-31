@@ -17,3 +17,11 @@
     - Image
     - Hyperlink
     - Table
+
+# Tips on Coding
+- Coding one a hour a day for 100 days will mean you'll be better at coding than if you just coded for one weekend and then forgot about it
+- The point is that building a habit is important
+- You don't say to yourself "Should I brush my teeth or not? Is it one of those days?"
+    - We just wake up and brush in the mornings
+- Most people benefit from continuing a streak
+- By about 30 or 40 days, the thing you constantly had to think about ("Do I code today?"), becomes a habit that you don't end up thinking too much about
