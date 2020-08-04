@@ -24,7 +24,7 @@ say("Hello world!")
 - How do we know that alert is a built-in function / keyword? Use the docs
 - We can't just make up keywords
 
-![](images/1.PNG)
+![](../images/1.PNG)
 
 - A function is a command that will get our browser to do something
 - Semi-colon ends the end of a sentence, or instruction

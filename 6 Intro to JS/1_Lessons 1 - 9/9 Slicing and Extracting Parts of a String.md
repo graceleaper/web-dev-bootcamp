@@ -6,7 +6,7 @@
     - If we input a sample paragraph in the counter, we see that characters are cut off at the end
 - we can use the slice method to replicate this feature
 
-![](images/8.png)
+![](../images/8.png)
 
 ```
 let myName = "Grace";
@@ -24,9 +24,9 @@ console.log(myName.slice(4, 5));
 
 // will return "e"
 ```
-![](images/9.png)
-![](images/10.png)
-![](images/11.png)
+![](../images/9.png)
+![](../images/10.png)
+![](../images/11.png)
 
 - Challenge: using what we know, refactor the Twitter functionality so that users can't type more than 140 characters when tweeting
 

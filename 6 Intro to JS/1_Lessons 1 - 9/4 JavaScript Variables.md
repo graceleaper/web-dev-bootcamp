@@ -16,12 +16,12 @@ let myName = "Grace";
 - If we then used `console.log(myName)`, we'll get "Grace"
 - We saved "Grace", data, in a variable
 
-![](images/2.PNG)
+![](../images/2.PNG)
 
 - Just like how `alert` and `prompt` are keywords, `let` is a keyword
 - The word after the `let` keyword is whatever name we want to give our variable
 
-![](images/3.PNG)
+![](../images/3.PNG)
 - Can think of 'let' as the container or a box
 - myName is the label or name of the box
 - The value is what goes inside the box

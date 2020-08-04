@@ -27,6 +27,6 @@ let my123 = 123;
 
 # Quiz
 
-![](images/6.PNG)
+![](../images/6.PNG)
 
-![](images/7.PNG)
+![](../images/7.PNG)
