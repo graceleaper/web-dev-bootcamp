@@ -2,7 +2,7 @@
 
 - Difference between Sans-serif and Serif fonts
 
-![](images/41.PNG)
+![](../images/41.PNG)
 
 ```
 body {
@@ -35,7 +35,7 @@ body {
 
 - Use web safe fonts
 
-![](images/42.PNG)
+![](../images/42.PNG)
 
 - There are some fonts that are on Windows and some on Macs
 - What can we do if we want to ensure that our fonts will always be displayed the way we want them?

@@ -1,7 +1,7 @@
 # HTML Divs
 - Recreate the following h1 and paragraph:
 
-![sean halpin's website](images/1.PNG)
+![sean halpin's website](../images/1.PNG)
 
 ```
 <h1>I'm Grace.</h1>
@@ -39,7 +39,7 @@ div {
 }
 ```
 
-![first div](images/2.PNG)
+![first div](../images/2.PNG)
 
 - Why doesn't the div touch the top, left, and right edges?
     - Well, remember that browser has default CSS. In other words, the browser inserts its own styles for a webpage. Like how a hr should look like or how an h1 looks like

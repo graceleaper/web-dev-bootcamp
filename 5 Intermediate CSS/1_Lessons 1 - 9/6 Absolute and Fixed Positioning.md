@@ -6,8 +6,8 @@
 - Image would be shifted to the right (and notice that it's 30px from the right of the div)
 - So elements with a position of "absolute" change position based on the parent element
 
-![](images/32.PNG)
-![](images/33.PNG)
+![](../images/32.PNG)
+![](../images/33.PNG)
 
 ## Fixed
 

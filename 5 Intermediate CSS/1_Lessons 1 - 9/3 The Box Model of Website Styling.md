@@ -5,20 +5,20 @@
     - Its height, width, background-color, color (if the element is text), etc.
 - Expand the image to fill up 100% of the width of our screen (a.k.a the view port). Could be the screen of iPad, Chromebook, phone, etc.
 
-![](images/3.PNG)
-![](images/4.PNG)
+![](../images/3.PNG)
+![](../images/4.PNG)
 
 - This idea of being able to change the width and height of HTML elements is called the box model idea, or just the box model
 
-![](images/5.PNG)
-![](images/6.PNG)
+![](../images/5.PNG)
+![](../images/6.PNG)
 
 - Border will create a default 3px border
 
-![](images/7.PNG)
-![](images/8.PNG)
-![](images/9.PNG)
-![](images/10.PNG)
+![](../images/7.PNG)
+![](../images/8.PNG)
+![](../images/9.PNG)
+![](../images/10.PNG)
 
 - Our text in a div might seem too close to the edges of our div
     - Set padding:
@@ -37,9 +37,9 @@ div {
 - Use Chrome Dev tools to see the box model for each element
     - Can also uncheck existing styles (see checkboxes), AND add your own styles to experiment with how your site will look like
 
-![](images/12.PNG)
-![](images/11.PNG)
+![](../images/12.PNG)
+![](../images/11.PNG)
 
 ## Challenges
-![](images/13.PNG)
-![](images/14.PNG)
+![](../images/13.PNG)
+![](../images/14.PNG)
