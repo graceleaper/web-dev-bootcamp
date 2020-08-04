@@ -19,12 +19,8 @@
 - Why is it called JavaScript?
     - "script" comes from play scripts
 
-![]()
-
 - In JavaScript, we can think of HTML elements as actors
 - JavaScript is the one language that is supported by all major browsers
-
-![]()
 
 - What language should you learn first or learn later on?
 - If you want to build:
