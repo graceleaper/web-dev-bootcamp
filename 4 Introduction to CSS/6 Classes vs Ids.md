@@ -64,12 +64,12 @@ h1 {
     <div>
         <h3>Written by Grace Lee</h3>
         <img src="grace-headshot.jpg" width="50%">
-        <p>Computer Science Teacher at The Buckley School. Dedicated to helping young people explore the full potential of what they could learn and be through technology.</p>
+        <p class="writer-bio">Computer Science Teacher at The Buckley School. Dedicated to helping young people explore the full potential of what they could learn and be through technology.</p>
     </div>
 
     <h3>My Time at the Tony Stark Internship</h3>
     
-    <p class="writer-bio">Sed nisi lacus sed viverra tellus in. Ornare aenean euismod elementum nisi quis eleifend quam adipiscing. Suspendisse faucibus interdum posuere lorem. Sagittis id consectetur purus ut faucibus pulvinar. Ut diam quam nulla porttitor. Malesuada fames ac turpis egestas sed tempus urna et pharetra. Tortor posuere ac ut consequat. Cursus euismod quis viverra nibh cras pulvinar. Ut tellus elementum sagittis vitae et leo. Nunc non blandit massa enim nec dui.</p>
+    <p>Sed nisi lacus sed viverra tellus in. Ornare aenean euismod elementum nisi quis eleifend quam adipiscing. Suspendisse faucibus interdum posuere lorem. Sagittis id consectetur purus ut faucibus pulvinar. Ut diam quam nulla porttitor. Malesuada fames ac turpis egestas sed tempus urna et pharetra. Tortor posuere ac ut consequat. Cursus euismod quis viverra nibh cras pulvinar. Ut tellus elementum sagittis vitae et leo. Nunc non blandit massa enim nec dui.</p>
 
     <div>
         <h3>Written by Peter Parker</h3>
@@ -78,7 +78,14 @@ h1 {
     </div>
 
 ```
-- In the above code sample, we can have the same `class` name for the `p` tag within the div, in this case:  `writer-bio`. This will make the style for the `writer-bio` paragraph be different than the style from the other paragraphs that were used to write the actual article posts.
+- In the above code sample, we can have the same `class` name for the `p` tag within the div, in this case:  `writer-bio`. This will make the style for the `writer-bio` paragraph be different than the style from the other paragraphs that were used to write the actual article posts
+- Notice that even though the `p` tags may styled have specific styles, using the `class` selector will override the styles for the `p` tag. So if we want to stay organized, we can apply classes to our article paragraph(???)
+- Note: We can use class on any opening HTML tag. If we really wanted to, we can do the following:
+
+```
+<p>Welcome to <em class="location">The Buckley School</em></p>
+```
+- And we can use `color`, `font-size`, etc. on the `location` class
 
 ## Pseudoclasses
 - Search on mdn or w3 schools for "css pseudoclasses"
